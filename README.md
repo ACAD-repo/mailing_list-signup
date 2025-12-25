@@ -131,8 +131,10 @@ Right-click `submission.txt` → Properties → Security → Allow Write.
 
 - CGI test:
   http://localhost/cgi-bin/mailinglist.pl
+  You should see "Thank You!"
 - Form:
   http://localhost/signup.html
+  You should see the mailing-list signup form.
 
 ---
 
