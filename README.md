@@ -1,4 +1,4 @@
-# Minimal Server Simulation of Signup-Form Submission on Windows
+# Simple Server Simulation of Signup-Form Submission on Windows
 
 This guide explains how to run an HTML signup form (`signup.html`) that submits data to a Perl CGI script (`mailinglist.pl`) on **Windows**, using **XAMPP (Apache)** and **Strawberry Perl**.
 
