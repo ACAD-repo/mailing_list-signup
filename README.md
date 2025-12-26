@@ -131,7 +131,7 @@ Right-click `submission.txt` → Properties → Security → Allow Write.
 
 Run the XAMPP Control Panel and start the Apache service.
 
-<img src="XAMPP CP.png" alt="Click to enlarge picture" width="768" height="auto">
+<img src="XAMPP CP.png" alt="Click to enlarge picture" width="512" height="auto">
 
 ---
 
