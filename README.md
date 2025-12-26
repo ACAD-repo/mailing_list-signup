@@ -153,8 +153,3 @@ Check:
 ```
 C:\xampp\apache\logs\error.log
 ```
-
-Common issues:
-- Internal Server Error → wrong shebang
-- Tabs only → wrong HTML `name`
-- No output → missing CGI header
