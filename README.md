@@ -16,6 +16,7 @@ Install the following software **in this order**:
   ```
   C:\xampp\
   ```
+- Do **NOT** run the XAMPP Control Panel yet.
 
 ### 1.2 Strawberry Perl (64-bit)
 - Download: https://strawberryperl.com/
