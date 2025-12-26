@@ -131,6 +131,8 @@ Right-click `submission.txt` → Properties → Security → Allow Write.
 
 Run the XAMPP Control Panel and start the Apache service.
 
+![alt text](XAMPP CP.png)
+
 ---
 
 ## 8. Testing
