@@ -127,7 +127,13 @@ Right-click `submission.txt` → Properties → Security → Allow Write.
 
 ---
 
-## 7. Testing
+## 7. Start Apache engine
+
+Run the XAMPP Control Panel and start the Apache service.
+
+---
+
+## 8. Testing
 
 - CGI test:
   http://localhost/cgi-bin/mailinglist.pl
@@ -138,7 +144,7 @@ Right-click `submission.txt` → Properties → Security → Allow Write.
 
 ---
 
-## 8. Troubleshooting
+## 9. Troubleshooting
 
 Check:
 ```
